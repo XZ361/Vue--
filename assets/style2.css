@@ -1,0 +1,26 @@
+.container{
+	margin-left: 80px;
+}
+.contain{
+	width: 100%;
+}
+.contain footer{
+	height: 60px;
+	background: #eee;
+	line-height: 60px;
+	text-align: center;
+	margin: 0 auto;
+}
+.col-md-3 h3{
+	margin-left: 50px;
+}
+.col-md-3 .list-unstyled{
+	margin-left: 50px;
+}
+.col-md-3 img{
+	margin-top: 50px;
+	margin-left: 50px;
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+}

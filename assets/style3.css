@@ -1,0 +1,13 @@
+.container{
+	margin-left: 150px;
+}
+.contain{
+	width: 100%;
+}
+.contain footer{
+	height: 60px;
+	background: #eee;
+	line-height: 60px;
+	text-align: center;
+	margin: 0 auto;
+}
